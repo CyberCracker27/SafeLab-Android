@@ -51,4 +51,9 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     // APK Parser
     implementation("net.dongliu:apk-parser:2.6.10")
+    implementation("androidx.exifinterface:exifinterface:1.3.7")
+    // Corrected line
+    implementation("com.tom-roush:pdfbox-android:2.0.27.0")
+
+
 }
