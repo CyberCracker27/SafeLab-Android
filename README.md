@@ -57,7 +57,7 @@ SafeLab/
 ---
 
 ## 📦 Installation
-git clone https://github.com/your-username/safelab.git
+git clone https://github.com/CyberCracker27/SafeLab.git
 
 1. Open in Android Studio  
 2. Build & Run  
